@@ -1,0 +1,5 @@
+{
+  "exercises/05-Defining-vs-Calling-a-function/tests.py::test_declare_variable": true,
+  "exercises/06-lambda-functions/tests.py::test_for_integer": true,
+  "exercises/06-lambda-functions/tests.py::test_for_integer2": true
+}
